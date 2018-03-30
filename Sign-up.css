@@ -1,0 +1,51 @@
+@charset "UTF-8";
+/* CSS Document */
+input[type=text], input[type=password]
+{
+	width:70%;
+	padding: 15px;
+	margin: 10px 0px 10px 0px;
+	display: inline-block;
+	border-color: black;
+	border-width: 1px;
+	font-size: 15px;
+	font-style: italic;
+}
+.all
+{
+	margin-left: 35%;
+	float: left;
+	padding: 0 auto;
+	text-align: center;
+	
+}
+
+label
+{
+	font-size: 20px;	
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+   font-size: 20px;
+}
+button:hover {
+    opacity:1;
+}
+
+.cancel
+{
+	background-color: Red;
+	opacity: 0.8;
+}
+
+.cancel, .signup {
+  float: left;
+  width: 50%;
+}

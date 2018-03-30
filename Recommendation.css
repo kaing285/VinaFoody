@@ -1,0 +1,45 @@
+@charset "UTF-8";
+/* CSS Document */
+img {
+	display: block;
+	margin: 0 auto;
+	width: 320px;
+	
+}
+.h1
+{
+	text-align: center;
+	color: orange;
+	
+}
+table
+{
+	font-size: 18px;
+	border: 2px white solid;
+	margin: auto;
+	
+}
+
+tr, th, td
+{
+	padding: 15px;
+}
+
+th
+{
+	color: white;
+}
+
+.t1{
+	background-color: #86B96C;
+	
+}
+.t2
+{
+	background-color: orange; 
+	
+}
+.t3
+{
+	background-color: pink;
+}
